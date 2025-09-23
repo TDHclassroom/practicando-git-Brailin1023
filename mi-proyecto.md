@@ -11,3 +11,8 @@ git commit -m "Primer commit: añadir mi-proyecto.md y documentación inicial"
 Brailin, [9/22/2025 2:54 PM]
 ## Características
 - Aprendiendo Git paso a paso
+
+     ## Última actualización
+     Editado desde GitHub web interface
+     ```
+   - Haz commit directamente en GitHub con el mensaje "Actualizar mi-proyecto desde GitHub"
